@@ -1,0 +1,79 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+
+}
+
+
+
+
+
+
+
+
+.grid_box{
+    background-color: #f9f9f9;
+
+}
+
+
+.why_choose1{
+    border:none;
+    border-top-left-radius:30px !important;
+    border-bottom-right-radius:30px !important;
+
+}
+.why_choose1:hover{
+    background-color:#13536e !important ;
+    transition:.3s;
+    color:white;
+    cursor:pointer;
+
+}
+
+.why_choose_icon{
+    height:100px;
+    width:100px;
+    color:black;
+    background-color:#e2ccd0 ;
+    border-radius:50%;
+    text-align-last:center;
+    border:4px solid #b2d6db;
+    animation: radius .1s ;
+     
+}
+.card_header{
+    background-color:white;
+
+}
+.why_choose1:hover .card_header{
+    background-color:#13536e;
+    transition:.3s;
+    color:white;
+}
+.why_choose_icon i{
+    margin-top:20px;
+    font-size:50px;
+}
+@keyframes radius{
+    
+}
+
+
+.patti{
+    background-color:#13536e;
+}
+.patti i{
+    font-size:50px;
+}
+.tropy_icon{
+    font-size:50px;
+}
+
+
+.meadia .btn_color{
+    background-color:#13536e;
+    color:white;
+    
+}
